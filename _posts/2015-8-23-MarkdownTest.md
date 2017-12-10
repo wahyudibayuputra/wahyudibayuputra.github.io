@@ -7,14 +7,12 @@ modified: 2017-12-10                 # Date
 category: personal
 tags: []
 image: 
-mathjax:
----
 
 <h2 id="overview">About Me</h2>
 
-Nama saya adalah Wahyudi Bayu Putra. Saya adalah seorang mahasiswa di salah satu universitas di Riau, bernama UIN Suska Riau.
+Nama saya adalah Wahyudi Bayu Putra. Saya adalah seorang mahasiswa di salah satu universitas di Riau, bernama [UIN Suska Riau](http://uin-suska.riau.ac.id).
 
-Disamping mendapatkan softskill di kelas dan di laboratorium, mahasiswa Jurusan Sistem Informasi juga mendapat pengayaan di bidang keagamaan, dan kepemimpinan yang bersifat ekstra kurikuler. Pada masa awal keberadaan mahasiswa baru di kampus UIN Suska Pekanbaru, mereka akan mendapat orientasi tentang perkuliahan di perguruan tinggi serta pengenalan kampus. Di samping itu, agenda kegiatan orientasi mahasiswa baru pada tahun akademik mendatang juga meliputi matrikulasi yaitu prakuliah untuk memperkenalkan sekaligus sebagai pengantar mahasiswa untuk mengikuti perkuliahan kompetensi dasar ilmu keislaman yang menjadi karakter UIN Suska Riau.
+Disamping mendapatkan softskill di kelas dan di laboratorium, mahasiswa [Jurusan Sistem Informasi](http://sif.uin-suska.ac.id) juga mendapat pengayaan di bidang keagamaan, dan kepemimpinan yang bersifat ekstra kurikuler. Pada masa awal keberadaan mahasiswa baru di kampus UIN Suska Pekanbaru, mereka akan mendapat orientasi tentang perkuliahan di perguruan tinggi serta pengenalan kampus. Di samping itu, agenda kegiatan orientasi mahasiswa baru pada tahun akademik mendatang juga meliputi matrikulasi yaitu prakuliah untuk memperkenalkan sekaligus sebagai pengantar mahasiswa untuk mengikuti perkuliahan kompetensi dasar ilmu keislaman yang menjadi karakter UIN Suska Riau.
 
   [1]: http://docutils.sourceforge.net/mirror/setext.html
   [2]: http://www.aaronsw.com/2002/atx/
