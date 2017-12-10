@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Site description for the metas.
+title:            Cinta RANDB
+description:      sebuah penelusuran yang saya anggap seperti takdir
 logo:             omikron.png
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
@@ -14,7 +14,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://wahyudibayuputra.github.io
 # baseurl:           
 
 # Gems used
@@ -42,17 +42,17 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Your Name
+  name:           Wahyudi Bayu Putra
   picture:        your-photo.jpg
-  email:          your@email.com
+  email:          wahyudibayuputra07@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    My Heart Just for you 
   # Social networking links used in footer. Update and remove as you like.
   twitter:
-  facebook:
-  github:
+  facebook:wahyudi.b.putra
+  github:wahyudibayuputra
   linkedin:
-  instagram:
+  instagram: wahyudibayuputra
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "http://plus.google.com/123123123123132123"
@@ -65,7 +65,7 @@ google_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: https://wahyudibayuputra.github.io
     external: false
     icon: home
   - title: Categories
