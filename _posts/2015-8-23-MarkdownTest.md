@@ -7,6 +7,8 @@ modified: 2017-12-10                 # Date
 category: personal
 tags: []
 image: 
+-mathjax:
+----
 
 <h2 id="overview">About Me</h2>
 
