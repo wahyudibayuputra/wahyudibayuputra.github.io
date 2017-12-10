@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: "About Me"       # Title of the post
 description: Tentang Wahyudi Bayu Putra       # Description of the post, used for Facebook Opengraph & Twitter
@@ -8,7 +8,7 @@ category: personal
 tags: []
 image: 
 mathjax:
-----
+---
 
 
 <h2 id="overview">About Me</h2>
